@@ -1,2 +1,3 @@
 " testing git" 
 Added new line
+test MI
